@@ -8,7 +8,7 @@ devono collaborare per calcolare il minimo tra gli
 elementi delle colonne di propria competenza e
 conservare tale valore in un vettore c di dimensione M.
 
-Considerazioni personali:
+Considerazioni personali: (NON AVEVO CAPITO LA TRACCIA MA MI PIACE COME HO RAGIONATO XD)
 L'output del codice stampa degli 0 quando il numero di thread (np) è inferiore al numero di colonne (M), il codice funziona
 correttamente, ma la traccia dovrebbe essere con c di dimensioni np e non con c di dimensione M.
 Motivo:
